@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+AutoUpdate-Show-In-Client: true
+Bundle-Localization: net/workingdevelopers/re3/core/ui/netbeans/Bundle
+Bundle-Name: %OpenIDE-Module-Name
+Bundle-SymbolicName: net.workingdevelopers.re3.core.ui.netbeans
+Bundle-Version: 1.0
+
