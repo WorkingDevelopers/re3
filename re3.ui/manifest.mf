@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+AutoUpdate-Show-In-Client: true
+Bundle-Localization: net/workingdeveloper/re3/ui/Bundle
+Bundle-Name: %OpenIDE-Module-Name
+Bundle-SymbolicName: net.workingdeveloper.re3.ui
+Bundle-Version: 1.0
+OpenIDE-Module-Layer: net/workingdeveloper/re3/ui/layer.xml
+
