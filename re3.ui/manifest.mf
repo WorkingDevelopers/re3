@@ -5,4 +5,5 @@ Bundle-Name: %OpenIDE-Module-Name
 Bundle-SymbolicName: net.workingdeveloper.re3.ui
 Bundle-Version: 1.0
 OpenIDE-Module-Layer: net/workingdeveloper/re3/ui/layer.xml
+OpenIDE-Module-Requires: org.openide.windows.WindowManager
 
